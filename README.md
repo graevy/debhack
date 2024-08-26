@@ -1,6 +1,7 @@
 usage:
 
-./repack.sh /path/to/debian/amd64/iso /path/to/preseed/cfg
+./repack.sh /path/to/debian/amd64/iso
 
-- the debian image must be MBR. most are; there are GPT ones
 - xorriso dependency
+- the debian image must be MBR. most are; there are GPT ones
+- only tested on netinst isos
