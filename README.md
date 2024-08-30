@@ -10,4 +10,4 @@ usage:
 
 - xorriso dependency
 - the debian image must be MBR. most are; there are GPT ones
-- only tested on netinst isos
+- only tested on bookworm (12) netinst isos
