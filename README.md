@@ -6,7 +6,7 @@ obviously, be careful about burning this to a usb and booting off of it, because
 
 usage:
 
-`./repack_mbr.sh /path/to/debian/iso`
+`sudo ./repack_mbr.sh /path/to/debian/iso`
 
 - xorriso dependency
 - the debian image must be MBR. most are; there are GPT ones
